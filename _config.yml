@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: --
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Kim Dahan
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/
+    - https://github.com/hyperhydroK
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Dahan Kim
+  url: https://github.com/hyperhydroK/
+  email: seasons19@g.skku.edu
