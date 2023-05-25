@@ -3,27 +3,27 @@ layout: page
 title: About Me
 ---
 
-**Introduction**
-I am student of SungKyunKwan University in Korea. I am majoring in Software. 
+**Introduction**\
+I am student of SungKyunKwan University in Korea. I am majoring in Software. \
 I attend
 
 ***
 
-**Skills**
-Languages: C, Kotlin, Python
-Tools: Visual Studio Code
+**Skills**\
+Languages: C, Kotlin, Python\
+Tools: Visual Studio Code\
 
 ***
 
-**Education**
-**Schools :** SungKyunKwan University 
-**Majors :** Computing-Computer Science and Engineering
-**Degree Courses :** Bachelors
-**Completed Year :** 2 Years
+**Education**\
+**Schools :** SungKyunKwan University \
+**Majors :** Computing-Computer Science and Engineering\
+**Degree Courses :** Bachelors\
+**Completed Year :** 2 Years\
 **GPA :** 3.29 
 
 ***
 
-**Achievements and Certification**
+**Achievements and Certification**\
 None
 
