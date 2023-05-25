@@ -18,12 +18,12 @@ Tools: Visual Studio Code
 ***
 
 ### **Education**
-**Schools : **SungKyunKwan University \
-**Majors : **Computing-Computer Science and Engineering\
-**Degree Courses : **Bachelors\
-**Completed Year : **2 Years\
-**GPA : **3.29 \
-**Course Work : **  System Programming Lab, Introduction to Computer Architectures, Discrete Mathematics, JAVA Programming Lab, Data Structures, Automata
+**Schools :** SungKyunKwan University \
+**Majors :** Computing-Computer Science and Engineering\
+**Degree Courses :** Bachelors\
+**Completed Year :** 2 Years\
+**GPA :** 3.29 \
+**Course Work :** System Programming Lab, Introduction to Computer Architectures, Discrete Mathematics, JAVA Programming Lab, Data Structures, Automata
 
 ***
 
