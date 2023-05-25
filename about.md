@@ -1,10 +1,29 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 **Introduction**
+I am student of SungKyunKwan University in Korea. I am majoring in Software. 
+I attend
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+***
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+**Skills**
+Languages: C, Kotlin, Python
+Tools: Visual Studio Code
+
+***
+
+**Education**
+**Schools :** SungKyunKwan University 
+**Majors :** Computing-Computer Science and Engineering
+**Degree Courses :** Bachelors
+**Completed Year :** 2 Years
+**GPA :** 3.29 
+
+***
+
+**Achievements and Certification**
+None
+
