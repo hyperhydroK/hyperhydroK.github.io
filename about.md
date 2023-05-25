@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-**### Introduction**\
+### **Introduction**\
 I am student of SungKyunKwan University in Korea. I am majoring in Software. \
 I attend
 
