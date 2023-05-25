@@ -11,7 +11,7 @@ I attend
 
 **Skills**\
 Languages: C, Kotlin, Python\
-Tools: Visual Studio Code\
+Tools: Visual Studio Code
 
 ***
 
