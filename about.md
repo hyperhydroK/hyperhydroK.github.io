@@ -3,19 +3,19 @@ layout: page
 title: About Me
 ---
 
-### **Introduction**\
+### **Introduction**
 I am student of SungKyunKwan University in Korea. I am majoring in Software. \
 
 
 ***
 
-### **Skills**\
+### **Skills**
 Languages: C, Kotlin, Python\
 Tools: Visual Studio Code
 
 ***
 
-### **Education**\
+### **Education**
 **Schools :** SungKyunKwan University \
 **Majors :** Computing-Computer Science and Engineering\
 **Degree Courses :** Bachelors\
@@ -24,6 +24,6 @@ Tools: Visual Studio Code
 
 ***
 
-### **Achievements and Certification**\
+### **Achievements and Certification**
 None
 
